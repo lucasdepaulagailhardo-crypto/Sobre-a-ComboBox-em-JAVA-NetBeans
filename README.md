@@ -2,9 +2,7 @@
 
 **O que é uma comboBox?**
 
-Uma combobox, ou caixa de combinação, é um controlo de interface de utilizador que combina uma caixa de texto com uma lista suspensa, permitindo ao utilizador tanto selecionar um item numa lista pré-definida como introduzir um novo texto.
-
-Em Java, um ComboBox (mais especificamente um JComboBox) é um componente da interface gráfica (GUI) que combina uma caixa de texto com uma lista suspensa de opções. O usuário pode escolher um item da lista pré-definida ou, se o ComboBox for editável, digitar um novo valor diretamente na caixa. 
+Em computação, uma caixa de combinação é um elemento de interface gráfica. Um JComboBox, que permite ao usuário escolher uma das várias opções, pode ter duas formas muito diferentes. A forma padrão é a caixa de combinação não editável, que conta com um botão e uma lista suspensa de valores. A segunda forma, chamada de caixa de combinação editável, possui um campo de texto com um pequeno botão confinando-o. O usuário pode digitar um valor no campo de texto ou clique no botão para exibir uma lista drop-down.
 
 | Método                            | O que faz                                 |
 | --------------------------------- | ----------------------------------------- |
